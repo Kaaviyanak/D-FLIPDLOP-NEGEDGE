@@ -64,4 +64,4 @@ RegisterNumber: 24005057
 ![d waveform screenshot](https://github.com/user-attachments/assets/ee886b40-534e-4499-893c-738dbeec09e1)
 
 **RESULTS**
-Thus D flipflop's truth table is verified in quartus using Verilog programming.
+Thus the truth table of D flipflop is verified in quartus using Verilog programming.
